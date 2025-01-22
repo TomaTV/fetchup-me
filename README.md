@@ -37,14 +37,6 @@ FetchUp.me est un outil intuitif et puissant pour tester, déboguer et automatis
 
 Votre application devrait maintenant fonctionner sur [http://localhost:3000](http://localhost:3000).
 
-## 🌟 Fonctionnalités
-
-- Interface intuitive pour construire et tester vos requêtes API.
-- Support des méthodes HTTP (GET, POST, PUT, DELETE, PATCH).
-- Éditeur JSON avec validation en direct.
-- Historique des requêtes pour un accès rapide.
-- Visualisation des réponses API (code statut, en-têtes, corps).
-
 ## 🛠️ Technologies
 
 - **Framework :** Next.js
@@ -58,7 +50,7 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](./LICENSE) pour plus 
 
 Si vous avez des questions, n'hésitez pas à nous contacter :
 
-- **Email** : flukxstudio.fr
+- **Email** : contact@flukxstudio.fr
 - **Twitter** : [@Toma](https://twitter.com/Tmoas)
 
 [Next.js]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
